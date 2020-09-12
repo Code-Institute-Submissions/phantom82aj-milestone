@@ -210,7 +210,7 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
-.cv-pdf i:hover {
+.cv-mp4 i:hover {
     color: #e84610;
 }
 
@@ -314,6 +314,7 @@ footer {
 .history-heading {
     color: #fafafa;
     margin-bottom: 50px;
+    font-size: 2.50rem;
 }
 
 .timeline-item {
