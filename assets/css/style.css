@@ -308,7 +308,7 @@ footer {
     margin: 40px 20px;
 }
 
-/* ----------------------------------------Work History */
+/* ----------------------------------------Past Events and Gallery */
 
 .history-heading {
     color: #fafafa;
@@ -364,12 +364,14 @@ footer {
     clear: both;
     line-height: 0;
     column-count: 4;
+    column-gap: 0px
 }
 
 #gallery-photos-2 {
     clear: both;
     line-height: 0;
     column-count: 4;
+    column-gap: 0px;
 }
 
 /* ----------------------------------------Contact Form */
