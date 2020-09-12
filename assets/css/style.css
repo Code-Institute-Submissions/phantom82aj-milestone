@@ -360,6 +360,18 @@ footer {
     color: white
 }
 
+#gallery-photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+}
+
+#gallery-photos-2 {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+}
+
 /* ----------------------------------------Contact Form */
 
 .contact-heading {
