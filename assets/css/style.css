@@ -70,9 +70,9 @@ h4 {
 }
 
 .general-sub {
-    font-family: "Exo", sans-serif;
+    font-family: "Permanent-marker", permanent-marker;
     font-weight: 300;
-    color: #fafafa;
+    color: #ffffff;
 }
 
 .inline-block {
@@ -91,7 +91,7 @@ h4 {
 
 .history-heading,
 .section-heading {
-    font-family: "Exo", sans-serif;
+    font-family: "Acme", acme;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
@@ -119,7 +119,7 @@ header {
 }
 
 .name {
-    font-family: "Exo", sans-serif;
+    font-family: "Righteous", righteous;
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
@@ -127,7 +127,7 @@ header {
 }
 
 .title {
-    font-family: "Roboto", sans-serif;
+    font-family: "Permanent-marker", permanent-marker;
     font-weight: 200;
     font-size: 28px;
     margin-top: 20px;
