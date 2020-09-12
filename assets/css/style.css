@@ -53,6 +53,7 @@
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
+    color: white;
 }
 
 /* ----------------------------------------Special paddings/margins/text */
@@ -360,17 +361,20 @@ footer {
     color: white
 }
 
+.fast-furious {
+    color: white;
+}
 #gallery-photos {
     clear: both;
     line-height: 0;
-    column-count: 4;
+    column-count: 2;
     column-gap: 0px
 }
 
 #gallery-photos-2 {
     clear: both;
     line-height: 0;
-    column-count: 4;
+    column-count: 2;
     column-gap: 0px;
 }
 
