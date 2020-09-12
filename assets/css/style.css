@@ -374,6 +374,14 @@ footer {
     column-gap: 0px;
 }
 
+#gallery-photos img {
+    width: 100%;
+}
+
+#gallery-photos-2 img {
+    width: 100%;
+}
+
 /* ----------------------------------------Contact Form */
 
 .contact-heading {
