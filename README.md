@@ -18,6 +18,8 @@ On the Gallery page there are visual images from the past 2 events that were hel
 On the contact page is has a way for potential clients to contact us directly for pricing and details. Each user must put their name, email, and give a brief description of the services they need.
 The download flyer page is so that users can see the next event that is upcoming in the form of a video.
 
+Screen shots were taken to prove functionality of each individual page and that all links were working correctly.
+
 The next features to implement would be the back end structure which links users to social media accounts in the footer
 Also when they submit an inquiry on a collaboration it will link directly to the promoter's business email account.
 Pricing features will also be added in to give potential clients the an estimated of service prices.
